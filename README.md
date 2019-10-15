@@ -1,1 +1,0 @@
-# Parallel-Computing-CPUvsGPU_Vector_Addition
